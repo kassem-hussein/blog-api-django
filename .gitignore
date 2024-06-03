@@ -1,0 +1,4 @@
+book/
+db.sqlite3
+blogapp/migrations
+myenv/
